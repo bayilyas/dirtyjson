@@ -12,4 +12,5 @@
 /dist
 /docs
 /env*
+/venv
 atlassian-ide-plugin.xml

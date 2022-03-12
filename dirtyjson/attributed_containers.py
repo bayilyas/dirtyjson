@@ -4,7 +4,7 @@ http://code.activestate.com/recipes/576693/
 
 """
 try:
-    from collections import MutableMapping as DictMixin
+    from collections import UserDict as DictMixin
     py_level = 3
 except ImportError:
     # noinspection PyUnresolvedReferences,PyCompatibility
